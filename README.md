@@ -1,1 +1,1 @@
-# beginner-prjects
+# beginner-projects
