@@ -39,3 +39,7 @@ let details = data.map(function(item) {
 });
 
 info.innerHTML = details.join('\n');
+
+function goBack() {
+    window.location.href = '../index.html';
+}

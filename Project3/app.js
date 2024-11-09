@@ -11,3 +11,7 @@ circle.addEventListener('mouseleave', () => {
         circle.classList.remove('hover');
     }
 })
+
+function goBack() {
+    window.location.href = '../index.html';
+}
