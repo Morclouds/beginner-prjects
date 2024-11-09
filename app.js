@@ -1,3 +1,3 @@
 function openProject(projectFolder) {
-    window.location.href = `./${projectFolder}/index.html`;
+    window.location.href = `/beginner-projects/${projectFolder}/index.html`;
 }
