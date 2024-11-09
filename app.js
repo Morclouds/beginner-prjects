@@ -1,5 +1,5 @@
 function openProject(Project1) {
-    window.location.href = `${Project1}/index.html`;
+    window.location.href = `/beginner-projects/${Project1}/index.html`;
 }
 
 function openProject(Project2) {
